@@ -1,0 +1,15 @@
+D:\Dev\Focus\Focus\Focus\bin\Debug\Focus.exe.config
+D:\Dev\Focus\Focus\Focus\bin\Debug\Focus.exe
+D:\Dev\Focus\Focus\Focus\bin\Debug\Focus.pdb
+D:\Dev\Focus\Focus\Focus\obj\Debug\Focus.FocusMain.resources
+D:\Dev\Focus\Focus\Focus\obj\Debug\Focus.Properties.Resources.resources
+D:\Dev\Focus\Focus\Focus\obj\Debug\Focus.csproj.GenerateResource.Cache
+D:\Dev\Focus\Focus\Focus\obj\Debug\Focus.exe
+D:\Dev\Focus\Focus\Focus\obj\Debug\Focus.pdb
+D:\Dev\Focus\Focus\Focus\obj\Debug\Focus.icons.resources
+D:\Dev\Focus\Focus\Focus\obj\Debug\Focus.data.resources
+D:\Dev\Focus\Focus\Focus\obj\Debug\Focus.csproj.CoreCompileInputs.cache
+D:\Dev\Focus\Focus\Focus\obj\Debug\Focus.csprojAssemblyReference.cache
+D:\Dev\Focus\Focus\Focus\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Dev\Focus\Focus\Focus\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Dev\Focus\Focus\Focus\obj\Debug\Focus.csproj.CopyComplete
